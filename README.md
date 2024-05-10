@@ -1,4 +1,4 @@
-![MasterHead](images/Header.png)
+![MasterHead](image/Headerr.png)
 <h1 align="center">Hi 👋, I'm Recep Taha Konyar</h1>
 <h3 align="center">A passionate AI developer from Türkiye</h3>
 
