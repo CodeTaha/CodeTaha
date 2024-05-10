@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGE0ycsqUs/eM60U8d51ePTiVkKeXpdPA/view?utm_content=DAGE0ycsqUs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![MasterHead](images/Header.png)
 <h1 align="center">Hi 👋, I'm Recep Taha Konyar</h1>
 <h3 align="center">A passionate AI developer from Türkiye</h3>
 
